@@ -1,0 +1,15 @@
+{
+  "name": "electron-images",
+  "version": "1.0.0",
+  "description": "aplicativo electron para visualizacion de imagenes",
+  "main": "index.js",
+  "scripts": {
+    "dev":"electron",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andres robin",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^6.0.11"
+  }
+}
